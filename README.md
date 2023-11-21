@@ -10,6 +10,6 @@
 
 
 The vehicle's trajectory in oversteering with a sweep sine
-![image](https://github.com/itsVinM/Basic_vehicle_dynamics/assets/85823292/8469692b-9f8f-4a80-a35a-bc47a964910c)
-
-
+<diV>
+   <img src="https://github.com/itsVinM/Basic_vehicle_dynamics/assets/85823292/8469692b-9f8f-4a80-a35a-bc47a964910c">
+</diV>
