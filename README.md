@@ -51,6 +51,10 @@ These parameters can be estimated from vehicle specifications or measured using 
 
 The model can be validated by comparing its simulation results to experimental data obtained from real-world vehicle tests. This involves driving the vehicle through a series of maneuvers, measuring its lateral responses, and comparing these measurements to the model's predictions.
 
+Further simulation were performed using <p></p> ![CarSim Logo](https://www.amet.it/wp-content/uploads/2020/06/carsim-logo-sw.png)
+
+
+
 ## Applications
 
 The vehicle dynamics model can be used for a variety of applications, including:
